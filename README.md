@@ -1,6 +1,6 @@
-# Twitter related API
+# Twitter related scripts
 
-Twitter related API.
+Twitter related scripts.
 
 ## Installation
 
